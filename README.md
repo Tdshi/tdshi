@@ -1,5 +1,5 @@
 ## Hi, I'm Tadashi 👋
-# 💫 About Me:
+💫 About Me:
 I am an Economics Student at the University of Calgary, currently learning more about Data Science and Dataviz.
 
 
