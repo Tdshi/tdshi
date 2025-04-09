@@ -1,5 +1,5 @@
 ## Hi, I'm Tadashi 👋
-
+## I'm an Economics Student at the University of Calgary looking to learn more about Data Science and Dataviz
 <!--
 **Tdshi/tdshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
